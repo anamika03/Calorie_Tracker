@@ -1,0 +1,128 @@
+[
+  {
+    "id": "graphql",
+    "name": "GraphQL",
+    "file": "graphql.svg",
+    "sourceUrl": null,
+    "description": "A query language for APIs where clients ask for exactly the fields they need in a single request."
+  },
+  {
+    "id": "microservices",
+    "name": "Microservices",
+    "file": "microservices.svg",
+    "sourceUrl": null,
+    "description": "Splitting an application into small, independently deployable services that talk over the network."
+  },
+  {
+    "id": "real-time-architecture",
+    "name": "Real-time Architecture",
+    "file": "real-time-architecture.svg",
+    "sourceUrl": null,
+    "description": "Event streaming (e.g. Kafka) that moves data between systems as it happens instead of in batches."
+  },
+  {
+    "id": "search",
+    "name": "Search",
+    "file": "search.svg",
+    "sourceUrl": null,
+    "description": "Inverted-index engines (e.g. Elasticsearch) for fast full-text and faceted queries."
+  },
+  {
+    "id": "serverless",
+    "name": "Serverless",
+    "file": "serverless.svg",
+    "sourceUrl": null,
+    "description": "Run functions on demand without managing servers; you pay per invocation."
+  },
+  {
+    "id": "object-storage",
+    "name": "Object Storage",
+    "file": "object-storage.svg",
+    "sourceUrl": null,
+    "description": "Flat, massively scalable blob storage (e.g. S3) addressed by key."
+  },
+  {
+    "id": "caching",
+    "name": "Caching",
+    "file": "caching.svg",
+    "sourceUrl": null,
+    "description": "Keep hot data in fast memory (e.g. Redis) to cut latency and database load."
+  },
+  {
+    "id": "load-balancer",
+    "name": "Load Balancer",
+    "file": "load-balancer.svg",
+    "sourceUrl": null,
+    "description": "Spreads incoming traffic across many servers for scale and availability."
+  },
+  {
+    "id": "cdn",
+    "name": "CDN",
+    "file": "cdn.svg",
+    "sourceUrl": null,
+    "description": "Edge servers worldwide that cache static content close to users."
+  },
+  {
+    "id": "message-queue",
+    "name": "Message Queue",
+    "file": "message-queue.svg",
+    "sourceUrl": null,
+    "description": "Decouples producers and consumers with durable, asynchronous messages."
+  },
+  {
+    "id": "sql-database",
+    "name": "SQL Database",
+    "file": "sql-database.svg",
+    "sourceUrl": null,
+    "description": "Relational storage with schemas, joins and ACID transactions."
+  },
+  {
+    "id": "nosql-database",
+    "name": "NoSQL Database",
+    "file": "nosql-database.svg",
+    "sourceUrl": null,
+    "description": "Schema-flexible stores (document, key-value, wide-column) built to scale out."
+  },
+  {
+    "id": "sharding",
+    "name": "Sharding",
+    "file": "sharding.svg",
+    "sourceUrl": null,
+    "description": "Partitioning data across many database nodes by a shard key."
+  },
+  {
+    "id": "rate-limiting",
+    "name": "Rate Limiting",
+    "file": "rate-limiting.svg",
+    "sourceUrl": null,
+    "description": "Caps how many requests a client can make in a time window."
+  },
+  {
+    "id": "api-gateway",
+    "name": "API Gateway",
+    "file": "api-gateway.svg",
+    "sourceUrl": null,
+    "description": "Single entry point that routes, authenticates and throttles API calls."
+  },
+  {
+    "id": "kubernetes",
+    "name": "Kubernetes",
+    "file": "kubernetes.svg",
+    "sourceUrl": null,
+    "description": "Orchestrates containers: scheduling, scaling, healing and rollout."
+  },
+  {
+    "id": "observability",
+    "name": "Observability",
+    "file": "observability.svg",
+    "sourceUrl": null,
+    "description": "Logs, metrics and traces that let you understand a running system."
+  },
+  {
+    "id": "consistent-hashing",
+    "name": "Consistent Hashing",
+    "file": "consistent-hashing.svg",
+    "sourceUrl": null,
+    "description": "Maps keys to nodes so adding/removing nodes moves minimal data."
+  }
+]
